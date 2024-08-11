@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(19, 30, 193);
+    margin: 0;
+    padding: 0;
+}
+
+/* CSS for the <div> element and the <a> tags inside it */
+
+div {
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    line-height: 1.5;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+a {
+    color: rgb(113, 10, 10);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
